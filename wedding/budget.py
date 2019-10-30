@@ -1,0 +1,10 @@
+print("My budget is awesome")
+print("My budget is awesome")
+print("My budget is awesome")
+print("My budget is awesome")
+print("More awesome stuffs")
+print("More awesome stuffs")
+print("More awesome stuffs")
+print("More awesome stuffs")
+print("More awesome stuffs")
+
